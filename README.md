@@ -10,3 +10,6 @@ This project is in initial status, please wait for the initial version, soon lat
 CANClient: Provides a UI to advertiser and Ad provider to sell/buy ad, with Wallet function.  
 CANNode:   Provides a service node to serve users.   
 
+# About US
+CAN is a strategy plat from MobiPromo Ltd. 
+
